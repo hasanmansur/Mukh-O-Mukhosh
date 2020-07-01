@@ -45,11 +45,4 @@ core components/concepts --> building blocks of DNN -->
   - Recurrent Neural Networks
   - Recursive Neural Networks
   
- ### family tree of DNN architectures
- 
- |
- |__UPN
- |__CNN
-    |__AlexNet
-    |__ResNet
-    |__VGGNet22
+### family tree of DNN architectures
