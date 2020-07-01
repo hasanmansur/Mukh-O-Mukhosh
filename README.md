@@ -15,5 +15,5 @@
     - [x] example: multiclass classification from continuous data
   - [x] General architecture of ANN:
     - [x] concept of feature engineering, continuous & categorical data, embedding, batch normalization, dropout layer
-    - [x] multiple input features , hidden layers & multiple output features
-    - [x] multiple input features , hidden layers & multiple output features
+    - [x] example: regression from a mix of continuous & categorical data
+    - [x] example: multiclass classification from a mix of continuous & categorical data
