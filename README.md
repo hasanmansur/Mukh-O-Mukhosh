@@ -26,7 +26,7 @@
 ## Architectural Principles of Deep Neural Networks(DNN)
 core components/concepts --> building blocks of DNN --> 
 
-### core components/concepts of deep neural networks
+### core components/concepts of DNN
   - Parameters
   - Layers
   - Activation functions
@@ -34,7 +34,7 @@ core components/concepts --> building blocks of DNN -->
   - Optimization methods
   - Hyperparameters
 
-### building block networks of deep networks
+### building block networks of DNN
   - Feed-forward multilayer neural networks
   - RBMs
   - Autoencoders
@@ -44,3 +44,12 @@ core components/concepts --> building blocks of DNN -->
   - Convolutional Neural Networks (CNNs)
   - Recurrent Neural Networks
   - Recursive Neural Networks
+  
+ ### family tree of DNN architectures
+ 
+ |
+ |__UPN
+ |__CNN
+    |__AlexNet
+    |__ResNet
+    |__VGGNet22
