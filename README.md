@@ -13,13 +13,13 @@
   - [x] Basic architecture of ANN: 
     - [x] multiple input features , hidden layers & multiple output features
     - [x] data loading & splitting into train/test set
-    - [x] example: multiclass classification from continuous data
+    - [x] example: multiclass classification from continuous data (IRIS dataset)
   - [x] General architecture of ANN:
     - [x] concept of feature engineering, continuous & categorical data, embedding, batch normalization, dropout layer
-    - [x] example: regression from a mix of continuous & categorical data
-    - [x] example: multiclass classification from a mix of continuous & categorical data
+    - [x] example: regression from a mix of continuous & categorical data (NYC taxi dataset)
+    - [x] example: multiclass classification from a mix of continuous & categorical data (NYC taxi dataset)
   - [ ] Convolutional Neural Network:
-    - [ ] hkjhk
+    - [ ] getting familiarized with a basic image dataset (MNIST)
   
 - Implementation:
 
