@@ -19,6 +19,6 @@
     - [x] example: regression from a mix of continuous & categorical data
     - [x] example: multiclass classification from a mix of continuous & categorical data
   - [ ] Convolutional Neural Network:
-    - [ ] 
+    - [ ] hkjhk
   
 - Implementation:
