@@ -24,7 +24,7 @@
 - Implementation:
 
 ## Architectural Principles of Deep Neural Networks(DNN)
-core components/concepts --> building blocks of DNN --> 
+core components/concepts --> building blocks of DNN --> major DNN architectures --> family tree of major DNN architectures
 
 ### core components/concepts of DNN
   - Parameters
@@ -39,10 +39,10 @@ core components/concepts --> building blocks of DNN -->
   - RBMs
   - Autoencoders
 
-### specific DNN architectures
+### major DNN architectures
   - Unsupervised Pretrained Networks (UPNs)
   - Convolutional Neural Networks (CNNs)
   - Recurrent Neural Networks
   - Recursive Neural Networks
   
-### family tree of DNN architectures
+### family tree of major DNN architectures
