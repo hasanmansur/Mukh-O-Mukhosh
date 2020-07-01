@@ -23,7 +23,7 @@
   
 - Implementation:
 
-## Architectural Principles of Deep Neural Networks(DNN)
+## Evolution of Deep Neural Networks(DNN)
 core components/concepts --> building blocks of DNN --> major DNN architectures --> family tree of major DNN architectures
 
 ### core components/concepts of DNN
