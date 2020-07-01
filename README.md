@@ -20,6 +20,7 @@
     - [x] example: multiclass classification from a mix of continuous & categorical data (NYC taxi dataset)
   - [ ] Convolutional Neural Network:
     - [ ] getting familiarized with a basic image dataset (MNIST)
+    - [ ] example: ANN with MNIST
   
 - Implementation:
 
