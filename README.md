@@ -23,12 +23,24 @@
   
 - Implementation:
 
-## Architectural Principles of Deep Networks
+## Architectural Principles of Deep Neural Networks(DNN)
+core components/concepts --> building blocks of DNN --> 
 
-### core components of deep neural networks
+### core components/concepts of deep neural networks
   - Parameters
   - Layers
   - Activation functions
   - Loss functions
   - Optimization methods
   - Hyperparameters
+
+### building block networks of deep networks
+  - Feed-forward multilayer neural networks
+  - RBMs
+  - Autoencoders
+
+### specific DNN architectures
+  - Unsupervised Pretrained Networks (UPNs)
+  - Convolutional Neural Networks (CNNs)
+  - Recurrent Neural Networks
+  - Recursive Neural Networks
