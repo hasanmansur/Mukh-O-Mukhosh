@@ -22,3 +22,13 @@
     - [ ] hkjhk
   
 - Implementation:
+
+## Architectural Principles of Deep Networks
+
+### core components of deep neural networks
+  - Parameters
+  - Layers
+  - Activation functions
+  - Loss functions
+  - Optimization methods
+  - Hyperparameters
