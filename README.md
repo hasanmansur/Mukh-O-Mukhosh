@@ -6,7 +6,7 @@
 ## Roadmap:
 - Study
   - [ ] Artificial Neural Network (ANN) basics
-    - perceptron, neural network, activation function, cost function, gradient
+    - [ ] perceptron, neural network, activation function, cost function, gradient
   - [ ] Earth (Orbit/Moon)
   - [ ] Mars
   - [ ] Jupiter
