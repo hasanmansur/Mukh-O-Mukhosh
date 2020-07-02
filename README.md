@@ -19,8 +19,11 @@
     - [x] example: regression from a mix of continuous & categorical data (NYC taxi dataset)
     - [x] example: multiclass classification from a mix of continuous & categorical data (NYC taxi dataset)
   - [ ] Convolutional Neural Network:
-    - [ ] getting familiarized with a basic image dataset (MNIST)
-    - [ ] example: ANN with MNIST
+    - [x] getting familiarized with a basic image dataset (MNIST)
+    - [x] example: MNIST with ANN
+    - [x] motvation behind choosing CNN over ANN
+    - [ ] basic concepts of CNN
+    - [ ] example: MNIST with CNN
   
 - Implementation:
 
