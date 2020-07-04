@@ -22,8 +22,8 @@
     - [x] getting familiarized with a basic image dataset (MNIST)
     - [x] example: MNIST with ANN
     - [x] motvation behind choosing CNN over ANN
-    - [ ] basic concepts of CNN
-    - [ ] example: MNIST with CNN
+    - [x] basic concepts of CNN
+    - [x] example: MNIST with CNN
   
 - Implementation:
 
