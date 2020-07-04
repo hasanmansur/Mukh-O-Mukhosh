@@ -26,8 +26,11 @@
     - [x] example: MNIST with CNN
   
 - Implementation:
-    - [] 
-    - [] read images from directory
+    - [ ] dataset preparation
+      - [ ] read images from directory
+      - [ ] data preprocessing (resize, toTensor etc)
+    - [ ] data loading
+      - [ ] creating data loader (attr: batch size, shuffle/randomize etc)
 
 ## Evolution of Deep Neural Networks(DNN)
 core components/concepts --> building blocks of DNN --> major DNN architectures --> family tree of major DNN architectures
