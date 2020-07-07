@@ -34,6 +34,7 @@
       - [x] creating data loader (attr: batch size, shuffle/randomize etc)
     - [x] defining model, loss & optimizer
     - [x] train the model
+    - [x] plot loss & accuracy (for training & validation)
 
 ## Evolution of Deep Neural Networks(DNN)
 core components/concepts --> building blocks of DNN --> major DNN architectures --> family tree of major DNN architectures
