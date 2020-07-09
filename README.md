@@ -32,9 +32,10 @@
       - [x] data preprocessing (resize, toTensor etc)
     - [x] data loading
       - [x] creating data loader (attr: batch size, shuffle/randomize etc)
-    - [x] defining model, loss & optimizer
+    - [x] defining model, loss function & optimizer
     - [x] train the model
     - [x] plot loss & accuracy (for training & validation)
+    - [x] experimenting with different hyperparams
 
 ## Evolution of Deep Neural Networks(DNN)
 core components/concepts --> building blocks of DNN --> major DNN architectures --> family tree of major DNN architectures
