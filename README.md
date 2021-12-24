@@ -38,7 +38,7 @@
     - [x] experimenting with different hyperparams
     - [x] training & validating using gpu/cuda
 
-## Evolution of Deep Neural Networks(DNN)
+<!-- ## Evolution of Deep Neural Networks(DNN)
 core components/concepts --> building blocks of DNN --> major DNN architectures --> family tree of major DNN architectures
 
 ### core components/concepts of DNN
@@ -60,4 +60,4 @@ core components/concepts --> building blocks of DNN --> major DNN architectures 
   - Recurrent Neural Networks
   - Recursive Neural Networks
   
-### family tree of major DNN architectures
+### family tree of major DNN architectures -->
